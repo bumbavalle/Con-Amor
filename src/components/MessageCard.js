@@ -8,7 +8,7 @@ const MessageCard = () => {
         Cada latido de mi corazón lleva tu nombre. En cada línea de código que escribo, 
         encuentro una razón más para amarte. Eres mi bug favorito, ese que nunca quiero solucionar.
       </p>
-      <p className="mt-6 text-pink-600 font-medium text-center">Con todo mi amor ❤️</p>
+      <p className="mt-6 text-pink-600 font-medium text-center">Con todo mi amor ❤️ TE AMO Att: Jonathan Valle</p>
     </div>
   );
 };
